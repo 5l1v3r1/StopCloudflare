@@ -12,7 +12,7 @@ Cloudflare already "protects" 20% of the internet, which is a LOT of sites. And 
 # Links
 - https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped
 - https://web.archive.org/web/20220905224303/https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped (mirror of the link above, incase of deletion)
-- https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351 (now deletect ticket criticizing The TOR Project for allowing Cloudflare to MiTM Tor Browser users)
+- https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351 (now deletet ticket criticizing The TOR Project for allowing Cloudflare to MiTM Tor Browser users)
 - https://www.afr.com/technology/the-ceo-who-might-have-too-much-power-over-the-internet-20220905-p5bfkz (article about the CEO of cloudflare, and about KiwiFarms)
 
 # Final note
